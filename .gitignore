@@ -44,6 +44,8 @@ $RECYCLE.BIN/
 .env
 .vagrant
 Vagrantfile
+phpunit.xml
+phpunit.xml.dist
 
 #-------------------------
 # Temporary Files
